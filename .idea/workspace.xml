@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/images/invie-white2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/invie-white2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/invie.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/invie.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/invie2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/invie2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,20 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="invie.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="invie.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/invie.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="564" column="23" selection-start-line="564" selection-start-column="23" selection-end-line="564" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="115" column="95" selection-start-line="115" selection-start-column="95" selection-end-line="116" selection-end-column="100" />
+            <state relative-caret-position="437">
+              <caret line="578" column="1" lean-forward="true" selection-end-line="578" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -48,6 +40,22 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="186" column="9" lean-forward="true" selection-start-line="186" selection-start-column="9" selection-end-line="186" selection-end-column="9" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,9 +79,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/precios.html" />
         <option value="$PROJECT_DIR$/css/invie.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -102,18 +110,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Invie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Invie-responsive" type="b2602c69:ProjectViewProjectNode" />
               <item name="Invie-responsive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Invie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Invie-responsive" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Invie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Invie-responsive" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,10 +141,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Invie-responsive/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Invie/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -167,12 +171,12 @@
       <workItem from="1523586870955" duration="936000" />
       <workItem from="1523588918308" duration="2474000" />
       <workItem from="1523632982328" duration="1127000" />
-      <workItem from="1523634200110" duration="1289000" />
+      <workItem from="1523634200110" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20090000" />
+    <option name="totallyTimeSpent" value="21516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="26" width="1054" height="995" extended-state="0" />
@@ -214,6 +218,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1725">
           <caret line="115" column="95" selection-start-line="115" selection-start-column="95" selection-end-line="116" selection-end-column="100" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -329,13 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="95" selection-start-line="115" selection-start-column="95" selection-end-line="116" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/precios.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -345,8 +349,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/invie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="564" column="23" selection-start-line="564" selection-start-column="23" selection-end-line="564" selection-end-column="23" />
+        <state relative-caret-position="437">
+          <caret line="578" column="1" lean-forward="true" selection-end-line="578" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="186" column="9" lean-forward="true" selection-start-line="186" selection-start-column="9" selection-end-line="186" selection-end-column="9" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
